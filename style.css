@@ -1693,7 +1693,7 @@ a,button{touch-action:manipulation}
   .hero-section{flex-direction:column;text-align:center}
   .hero-1,.hero-visual{width:100%;max-width:800px}
   .hero-1{flex-basis:auto}
-  .hero-description{margin-left:auto;margin-right:auto}
+  .hero-description{margin-left:auto;margin-right:auto;text-align:center}
   .hero-buttons,.hero-stats{justify-content:center}
   .hero-visual{min-height:390px;max-width:600px}
   .card-one{left:5%}.card-two{right:5%}.card-three{left:10%}
@@ -1727,7 +1727,7 @@ a,button{touch-action:manipulation}
   .hero-section{min-height:auto;padding:60px 16px 55px;gap:30px}
   .hero-small,.section-heading>p:first-child{font-size:11px;letter-spacing:2.5px}
   .hero-section h1{font-size:clamp(34px,10vw,50px);letter-spacing:-.8px}
-  .hero-description{font-size:15px;line-height:1.7}
+  .hero-description{font-size:15px;line-height:1.7;text-align:center}
   .hero-buttons{flex-direction:column;align-items:stretch;max-width:360px;margin-left:auto;margin-right:auto}
   .primary-btn,.secondary-btn{width:100%;font-size:15px}
   .hero-stats{gap:22px 28px;margin-top:40px}
